@@ -22,6 +22,7 @@ var/
 wheels/
 share/python-wheels/
 *.egg-info/
+*.venv/ 
 .installed.cfg
 *.egg
 MANIFEST
@@ -50,6 +51,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+
 
 # Translations
 *.mo
