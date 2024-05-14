@@ -22,7 +22,8 @@ var/
 wheels/
 share/python-wheels/
 *.egg-info/
-*.venv/ 
+*.venv/
+*.myenv/
 .installed.cfg
 *.egg
 MANIFEST
